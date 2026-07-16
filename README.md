@@ -107,7 +107,7 @@ Using **QGIS** and a **2 m Digital Terrain Model**:
 - Extract zonal statistics
 - Produce crop-level exposure
 
-Due to the size of these GIS layers, in particular the DTM's which were computed at a very high resolution, they are not available on this repo. Email ronangillibert@gmail.com to obtain them. 
+Due to the size of these GIS layers, in particular the DTM's which were computed at a very high resolution, they are not available on this repo. Email ronangillibert@gmail.com to find a way of sharing them. 
 
 ---
 
